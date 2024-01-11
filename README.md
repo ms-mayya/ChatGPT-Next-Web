@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center redeploy">
 <img src="./docs/images/head-cover.png" alt="icon"/>
 
 <h1 align="center">NextChat (ChatGPT Next Web)</h1>
